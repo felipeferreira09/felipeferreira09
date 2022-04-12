@@ -1,4 +1,4 @@
-###  ⚡ Hello, i'm Bruno! ⚡
+###  Felipe Ferreira
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ) (https://www.linkedin.com/in/felipe-ferreira-612857209/)
 
 
@@ -9,7 +9,6 @@ I'm 20y, Studie Scince Computer in PUC-RS
 
 ### Languages I work
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
